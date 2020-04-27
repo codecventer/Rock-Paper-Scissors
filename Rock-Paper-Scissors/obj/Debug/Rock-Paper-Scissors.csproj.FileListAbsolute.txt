@@ -1,0 +1,6 @@
+/Users/christiaanventer/Projects/Rock-Paper-Scissors/Rock-Paper-Scissors/obj/Debug/Rock-Paper-Scissors.csprojAssemblyReference.cache
+/Users/christiaanventer/Projects/Rock-Paper-Scissors/Rock-Paper-Scissors/obj/Debug/Rock-Paper-Scissors.csproj.CoreCompileInputs.cache
+/Users/christiaanventer/Projects/Rock-Paper-Scissors/Rock-Paper-Scissors/bin/Debug/Rock-Paper-Scissors.exe
+/Users/christiaanventer/Projects/Rock-Paper-Scissors/Rock-Paper-Scissors/bin/Debug/Rock-Paper-Scissors.pdb
+/Users/christiaanventer/Projects/Rock-Paper-Scissors/Rock-Paper-Scissors/obj/Debug/Rock-Paper-Scissors.exe
+/Users/christiaanventer/Projects/Rock-Paper-Scissors/Rock-Paper-Scissors/obj/Debug/Rock-Paper-Scissors.pdb
